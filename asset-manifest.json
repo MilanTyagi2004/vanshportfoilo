@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vanshportfoilo/static/css/main.c55479c5.css",
+    "main.js": "/vanshportfoilo/static/js/main.b829e07d.js",
+    "static/js/453.68693753.chunk.js": "/vanshportfoilo/static/js/453.68693753.chunk.js",
+    "static/media/editor.jpg": "/vanshportfoilo/static/media/editor.47832325e79c4f52a1ab.jpg",
+    "static/media/email.png": "/vanshportfoilo/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/arrow.png": "/vanshportfoilo/static/media/arrow.0dfabb0beab795eea0ab.png",
+    "static/media/linkedin.png": "/vanshportfoilo/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/slick.svg": "/vanshportfoilo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/vanshportfoilo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/vanshportfoilo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/vanshportfoilo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/vanshportfoilo/index.html",
+    "main.c55479c5.css.map": "/vanshportfoilo/static/css/main.c55479c5.css.map",
+    "main.b829e07d.js.map": "/vanshportfoilo/static/js/main.b829e07d.js.map",
+    "453.68693753.chunk.js.map": "/vanshportfoilo/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55479c5.css",
+    "static/js/main.b829e07d.js"
+  ]
+}
