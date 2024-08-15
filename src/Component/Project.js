@@ -32,6 +32,7 @@ const Project = ({ videos }) => {
   };
   
     return (
+      <div id='project'>
         <div className="carousel-container">
             <div className="link-container">
           <p>short Edit Videos</p>
@@ -67,6 +68,7 @@ const Project = ({ videos }) => {
             </div>
           )}
         </Modal>
+      </div>
       </div>
     );
   };

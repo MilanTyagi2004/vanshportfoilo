@@ -37,7 +37,7 @@ function Header() {
                     <div className={`menu-links ${isopen ? 'open' : ''}`}>
                         <li><a href="#about" onClick={handleLinkClick}>About</a></li>
                         <li><a href="#about" onClick={handleLinkClick}>Experience</a></li>
-                        <li><a href="#project" onClick={handleLinkClick}>Project</a></li>
+                        <li><a href="#Project" onClick={handleLinkClick}>Project</a></li>
                         <li><a href="#contact" onClick={handleLinkClick}>Contact</a></li>
                     </div>
                 </div>
