@@ -54,7 +54,7 @@ export default function About() {
           src={ArrowImage}
           alt="Arrow icon"
           className="icon arrow"
-          onClick={() => (window.location.href = '#Project')}
+          onClick={() => (window.location.href = './#project')}
         />
       </section>
     </>

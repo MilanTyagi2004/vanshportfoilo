@@ -20,7 +20,7 @@ function Profile() {
           </button>
           <button
             className="btn btn-color-1"
-            // onClick={() => (window.location.href = './#contact')}
+            onClick={() => (window.location.href = './#contact')}
           >
             Contact Info
           </button>
